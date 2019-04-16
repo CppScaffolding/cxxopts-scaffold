@@ -1,0 +1,4 @@
+## .gitignore file for cxxopts-scaffold
+
+## ignore folder fetched through gclient
+cxxopts
